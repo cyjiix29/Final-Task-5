@@ -19,3 +19,31 @@
 
 ## Here's the Screenshots
 
+#### Step 1
+<img src="images/pic.PNG" alt="Alt Text" Width="900" heigth="300">
+
+<img src="images/pic1.PNG" alt="Alt Text" Width="900" heigth="300">
+
+#### Step 2
+<img src="images/pic2.PNG" alt="Alt Text" Width="900" heigth="300">
+
+<img src="images/pic2.1.PNG" alt="Alt Text" Width="900" heigth="300">
+
+
+#### Step 3
+<img src="images/pic3.PNG" alt="Alt Text" Width="900" heigth="300">
+
+<img src="images/pic3.1.PNG" alt="Alt Text" Width="900" heigth="300">
+
+
+#### Step 4
+<img src="images/pic4.PNG" alt="Alt Text" Width="900" heigth="300">
+
+
+#### Step 5
+<img src="images/pic5.PNG" alt="Alt Text" Width="900" heigth="300">
+
+<img src="images/pic5.1.PNG" alt="Alt Text" Width="900" heigth="300">
+
+
+
